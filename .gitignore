@@ -1,5 +1,5 @@
 # sintaxe define um arquivo ou pattern por linha. Exemplo. 
-# application.og
+# application.log
 # *.log 
-*.log
+*.application.log
 
