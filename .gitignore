@@ -2,4 +2,9 @@
 # application.log
 # *.log 
 application.log
+*_BACKUP_*
+*.orig
+*_REMOTE_*
+*_LOCAL_*
+*_BASE_*
 
