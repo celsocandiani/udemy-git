@@ -1,3 +1,3 @@
-Licence 
-
-A
+This is a licence file. 
+This program is protected by me. 
+Take care.
